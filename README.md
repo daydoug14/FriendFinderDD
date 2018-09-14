@@ -1,13 +1,10 @@
 # FriendFinderDD
-We built a compatibility-based "FriendFinder" application -- basically a dating app. This full-stack site will take in results from the users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match. This site is specifically a "Dog Friend Finder."
+We built a compatibility-based "FriendFinder" application -- basically a dating app. This full-stack site takes in results from the users' surveys, then compares their answers with those from other users. The app then displays the name and picture of the user with the best overall match. This site is specifically a "Dog Friend Finder."
 
-We will used Express to handle routing. Make sure you deploy your app to Heroku so other users can fill it out.
+We used Express to handle routing and deployed the app to Heroku so other users can fill it out.
 
 
 
-### Submission on BCS
-
-* Please submit both the deployed Github.io link to your homework AND the link to the Github Repository!
 
 ### Instructions
 
